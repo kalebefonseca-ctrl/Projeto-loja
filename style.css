@@ -165,9 +165,15 @@
       width: 220px;
       margin: 30px; 
     }
-    .section-Xbox {
-      display: flex;
-      justify-content: center;  /* Centraliza horizontalmente */
-      padding: 40px 0;   /* Mantém espaço ao redor */
-      }
+    
   
+      .texto-Xbox{
+         color: #ffffff;
+         justify-content: end;
+         display: flex;
+        }
+
+      .banner-Xbox{
+         display: flex;
+         justify-content: center;
+      }
